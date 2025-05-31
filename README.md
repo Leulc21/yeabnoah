@@ -13,7 +13,10 @@
 
 
 
-<h4 style="font-size : 20px;">👋 Hello! I'm Yeabsra , a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!<h4>
+<h4 style="font-size: 20px;">
+  👋 Hello! I'm Leul, a self-taught web and mobile developer from Ethiopia. I love using technology to solve real-world problems and bring ideas to life. I'm detail-oriented, persistent, and always eager to learn something new. When I'm not coding, I'm exploring new tools, frameworks, and ideas. Let's connect and build something awesome together!
+</h4>
+
 
 <h2> some of the technologies I work with ❤️</h2>
 
@@ -111,21 +114,3 @@
 
  
  
-
-
-<!--
-**yeabnoah/yeabnoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...##Python & Django
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="https://github.com/yeabnoah/stargazers"><img src="https://img.shields.io/github/stars/yeabnoah" alt="Stars Badge"/></a>
-
--->
