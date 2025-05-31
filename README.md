@@ -68,16 +68,20 @@
   <sub><b>Prisma</b></sub>
 </td>
       <td align="center">
-       <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
-     </td> 
+  <img alt="Firebase" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <br />
+  <sub><b>Firebase</b></sub>
+</td>
     <td>
      <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
     </td>
    </tr>
    <tr>
           <td align="center">
-       <img alt="Hono" height=64px src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png">
-     </td> 
+  <img alt="Supabase" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+  <br />
+  <sub><b>Supabase</b></sub>
+</td>
     <td align="center">
   <img alt="Zod" height="64px" src="https://img.icons8.com/ios-filled/100/000000/code.png" />
   <br />
