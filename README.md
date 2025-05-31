@@ -36,6 +36,12 @@
       <td align="center">
        <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/dart.svg">
      </td>
+     <td align="center">
+  <img alt="Dart" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <br />
+  <sub><b>Dart</b></sub>
+</td>
+
       
    </tr>
 </table>
@@ -53,9 +59,11 @@
           <td align="center">
        <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
      </td> 
-    <td>
-        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/Next JS.svg">
-     </td>
+    <td align="center">
+  <img alt="Flutter" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <br />
+  <sub><b>Flutter</b></sub>
+</td>
      <td align="center">
       <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
     </td>
