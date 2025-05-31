@@ -34,8 +34,9 @@
        <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/python-5.svg">
      </td>
       <td align="center">
-      <img alt="Go-lang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
-    </td>
+       <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/dart.svg">
+     </td>
+      
    </tr>
 </table>
 //
@@ -50,10 +51,10 @@
       <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     </td>
           <td align="center">
-       <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
+       <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
      </td> 
     <td>
-        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/Next JS.svg">
      </td>
      <td align="center">
       <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
@@ -62,7 +63,7 @@
        <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
      </td>
      <td align="center">
-       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
+       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/Prisma.svg">
      </td> 
       <td align="center">
        <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
