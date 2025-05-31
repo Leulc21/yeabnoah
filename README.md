@@ -1,13 +1,13 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeabnoah&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeabnoah)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeabnoah&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Leulc21)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 <div align="left" width="100%" height="100%"> 
  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:yeabnoah5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leul-chanie-7b10ba260/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:leulchanie576@gmail.com)
 ![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/technerd345)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=.for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TechNerd556)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/LeulC21)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=.for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Leulc21)
 </div>
 
 
@@ -107,7 +107,7 @@
      <td> 
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yeabnoah&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabnoah&theme=radical&layout=compact)](https://github.com/yeabnoah) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabnoah&theme=radical&layout=compact)](https://github.com/Leulc21) </td>
    </tr>
   </table>
 
