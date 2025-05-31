@@ -33,9 +33,6 @@
           <td align="center">
        <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/python-5.svg">
      </td>
-      <td align="center">
-       <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/dart.svg">
-     </td>
      <td align="center">
   <img alt="Dart" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <br />
@@ -107,9 +104,12 @@
        <td align="center">
        <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      </td>  
-    <td align="center">
-       <img alt="Socket-io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
-     </td> 
+ <td align="center">
+  <img alt="Postman" height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <br />
+  <sub><b>Postman</b></sub>
+</td>
+
    </tr>
 
  </table>
