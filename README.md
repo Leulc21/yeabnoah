@@ -63,8 +63,10 @@
        <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
      </td>
      <td align="center">
-       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/Prisma.svg">
-     </td> 
+  <img alt="Prisma" height="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/prisma.svg" />
+  <br />
+  <sub><b>Prisma</b></sub>
+</td>
       <td align="center">
        <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
      </td> 
@@ -76,9 +78,11 @@
           <td align="center">
        <img alt="Hono" height=64px src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png">
      </td> 
-     <td align="center">
-       <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
-     </td>
+    <td align="center">
+  <img alt="Zod" height="64px" src="https://img.icons8.com/ios-filled/100/000000/code.png" />
+  <br />
+  <sub><b>Zod</b></sub>
+</td>
         <td align="center">
        <img alt="Mongo Db" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
      </td>
